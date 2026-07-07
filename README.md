@@ -106,7 +106,7 @@ Solution: Fixed the light scope settings in the Inspector.
 ## 📸 Screenshots
 
 ### Full Terrain Overview
-![Overview](screenshots/[top-down-filename].png)
+![Overview](screenshots/Screenshot 2026-07-06 190054.png)
 
 ### Ground Level — Red Poppy Field
 ![Poppies](screenshots/[poppy-field-filename].png)
