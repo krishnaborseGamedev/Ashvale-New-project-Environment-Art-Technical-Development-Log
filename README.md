@@ -109,7 +109,7 @@ Solution: Fixed the light scope settings in the Inspector.
 ![Overview](screenshots/Screenshot 2026-07-06 190054.png)
 
 ### Ground Level — Red Poppy Field
-![Poppies](screenshots/[poppy-field-filename].png)
+screenshots/Screenshot 2026-07-06 192411.png
 
 ### Pink Blossom Corridor
 ![Blossom](screenshots/[blossom-filename].png)
