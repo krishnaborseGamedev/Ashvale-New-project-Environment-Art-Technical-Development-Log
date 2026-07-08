@@ -108,14 +108,18 @@ Solution: Fixed the light scope settings in the Inspector.
 ### Ground Level — Red Flower Field
 ![Ground Level](screenshots/environment_02.png)
 
+
 ### Pink Blossom Corridor
 ![Pink Blossom](screenshots/environment_04.png)
+
 
 ### Pink Blossom Corridor_2
 ![Pink Blossom2](screenshots/environment_03.png)
 
+
 ### Autumn Forest Section
 ![Autumn Forest](screenshots/environment_05.png)
+
 
 ### Deep Forest and Flowers
 ![Deep Forest](screenshots/environment_01.png)
