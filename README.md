@@ -1,8 +1,6 @@
 #  Ashvale — Environment Art
 ### Unity URP | Polytope Studio | Terrain Tools | Custom Shader Pipeline
 
-![Overview](screenshots/[your-top-down-screenshot-filename].png)
-
 ---
 
 ##  About This Project
