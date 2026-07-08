@@ -105,20 +105,20 @@ Solution: Fixed the light scope settings in the Inspector.
 
 ## 📸 Screenshots
 
-### Full Terrain Overview
-![Forest](screenshots/environment_01.png)
+### Ground Level — Red Flower Field
+![Ground Level](screenshots/environment_02.png)
 
-### Ground Level — Red Poppy Field
-![Poppies](screenshots/[poppy-field-filename].png)
+### Pink Blossom Corridor_2
+![Pink Blossom](screenshots/environment_04.png)
 
 ### Pink Blossom Corridor
-![Blossom](screenshots/[blossom-filename].png)
+![Pink Blossom2](screenshots/environment_03.png)
 
 ### Autumn Forest Section
-![Autumn](screenshots/[autumn-filename].png)
+![Autumn Forest](screenshots/environment_05.png)
 
-### Rock & Detail Cluster
-![Rocks](screenshots/[rock-cluster-filename].png)
+### Deep Forest and Flowers
+![Deep Forest](screenshots/environment_01.png)
 
 ---
 
