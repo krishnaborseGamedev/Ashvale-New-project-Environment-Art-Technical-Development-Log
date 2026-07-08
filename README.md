@@ -140,4 +140,4 @@ This environment is the foundation. The full Ashvale game repo will cover:
 ## 👤 Developer
 
 **Krishna Borse** — Unity Game Developer  
-[GitHub Profile](https://github.com/krishnaborseGamedev) | [Portfolio](#)
+[GitHub Profile](https://github.com/krishnaborseGamedev) | [Portfolio](file:///C:/Users/asus/Downloads/portfolio_updated.html)
